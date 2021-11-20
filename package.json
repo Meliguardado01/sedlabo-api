@@ -1,7 +1,7 @@
 {
-  "name": "TodoList",
+  "name": "SedLaboApi",
   "version": "1.1.9",
-  "description": "Small Todo List REST API using Express.js, MongoDB and NodeJS",
+  "description": "Small sedlabo-api REST API using Express.js, MongoDB and NodeJS",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/babel-cli/lib/babel-node src/index.js",
